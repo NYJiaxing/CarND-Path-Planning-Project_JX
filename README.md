@@ -37,6 +37,9 @@ Right turn:
 ## Result
 The best safe driving distance so far is 6.30 miles without accident, sometime the collision happened when switch the lane, the vehicle in the other lane will suddenly speed up and hit the host vehicle, this is randomly accident, majority of the tests are good.
 
+The entire video can be find in following link:
+https://www.youtube.com/watch?v=6JpdkKO-FJY
+
 ## Basic Build Instructions
 
 1. Clone this repo.
