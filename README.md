@@ -101,6 +101,3 @@ the path has processed since last time.
     git checkout e94b6e1
     ```
 
-
-# CarND-Path-Planning-Project_JX
-# CarND-Path-Planning-Project_JX
